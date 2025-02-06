@@ -317,7 +317,10 @@ header .header-content img {
     header .header-content {
         grid-template-columns: 1fr;
         text-align: center;
-        margin-top: 100px
+    }
+
+    #content-text-text {
+        margin-top: 100px;
     }
 
     header .header-content img {
